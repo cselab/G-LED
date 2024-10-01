@@ -11,7 +11,7 @@ The code provided can be used to generate the results in the paper.
 ## Citation
 If this code is relevant for your research, please consider citing:
 ```
-@article{kaltenbach2023invertibleNeuralOperators,
+@article{gao2024gled,
   title={Generative Learning for Forecasting the Dynamics of High Dimensional Complex Systems},
   author={Gao, Han and Kaltenbach, Sebastian and Koumoutsakos, Petros},
   journal={Preprint},
