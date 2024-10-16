@@ -1,4 +1,6 @@
-# Generative Learning for Forecasting the Dynamics of High Dimensional Complex Systems
+# [Generative Learning for Forecasting the Dynamics of High Dimensional Complex Systems](https://www.nature.com/articles/s41467-024-53165-w)
+
+Our paper is open-access and can be accessed at https://www.nature.com/articles/s41467-024-53165-w
 
 ## Keywords:
 - Diffusion Models
