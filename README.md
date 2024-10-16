@@ -14,7 +14,8 @@ If this code is relevant for your research, please consider citing:
 @article{gao2024gled,
   title={Generative Learning for Forecasting the Dynamics of High Dimensional Complex Systems},
   author={Gao, Han and Kaltenbach, Sebastian and Koumoutsakos, Petros},
-  journal={Preprint},
+  journal={Nature Communications 15, 8904 },
   year={2024}
+  doi = "https://doi.org/10.1038/s41467-024-53165-w",
 }
 ```
