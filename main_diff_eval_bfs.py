@@ -52,7 +52,7 @@ class Args_final_eval:
 								 default=151,
 								 help = 'max seq_length (per seq) to test the model')
 		self.parser.add_argument("--start_n", 
-								 default=9500, #9500 has problem
+								 default=9500, 
 								 help = 'the starting step of the data')
 		self.parser.add_argument("--n_span",
 								 default=152,
